@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 
 #### 🌱 I’m currently...
 
-*  learning iOS development
-*  leading educational project [OYDO](https://instagram.com/oydokg?igshid=YmMyMTA2M2Y=)
+*  learning iOS development.
+*  leading educational project [OYDO](https://instagram.com/oydokg?igshid=YmMyMTA2M2Y=).
+*  Doing lots of physical activity.
 
 #### 👩🏻‍💻 Previously, I..
 
-* Did Judo for 7+ years and achieved 1st Dan.
+* Did Judo for 7+ years.
 * Led Kyrgyzstan🇰🇬 F1RST National Robotics Team at the [F1RST Global Chalenge 2022](https://first.global/), which took place in Geneva, Switzerland.
 * Patented "Trolleybus Current System" with a professor from Kyrgyz-Russian Slavic University.
 * Interned in the international NGO, [Mercy Corps](https://www.mercycorps.org/), as an M&E Officer.
