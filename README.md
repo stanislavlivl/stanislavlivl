@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 #### 🌱 I’m currently...
 
-*  learning iOS development.
-*  leading educational project [OYDO](https://instagram.com/oydokg?igshid=YmMyMTA2M2Y=).
-*  Doing lots of physical activity.
+*  Learning iOS development.
+*  Leading educational project [OYDO](https://instagram.com/oydokg?igshid=YmMyMTA2M2Y=).
+*  Preparing for marathon (42.195 km).
 
 #### 👩🏻‍💻 Previously, I..
 
