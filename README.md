@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 * Did Judo for 7+ years.
 * Led Kyrgyzstan🇰🇬 F1RST National Robotics Team at the [F1RST Global Chalenge 2022](https://first.global/), which took place in Geneva, Switzerland.
-* Patented "Trolleybus Current System" with a professor from Kyrgyz-Russian Slavic University.
+* Patented invention with a professor from Kyrgyz-Russian Slavic University.
 * Interned in the international NGO, [Mercy Corps](https://www.mercycorps.org/), as an M&E Officer.
 * Participated and won awards in int'l science fairs and hackatons.
 
